@@ -12,3 +12,7 @@ header {
     font-size: 32px;
     color: rgb(2, 55, 01);
 }
+.container__titulo {
+    font-size: 28px;
+    font-weight: 700;
+}
